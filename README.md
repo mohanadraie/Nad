@@ -8,4 +8,4 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
 ## COMP1238 Notes
-- [Go to COMP1238 Notes](comp1238.md
+- [Go to COMP1238 Notes](comp1238.md)
